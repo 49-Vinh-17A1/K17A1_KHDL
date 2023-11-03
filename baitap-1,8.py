@@ -1,0 +1,8 @@
+chuoi_1=input("nhập chuỗi s1:")
+chuoi_2=input("nhập chuỗi s2:")
+chuoi_3=input("nhập chuỗi s3:")
+print("chiều dài chuỗi s1 =",chuoi_1[0:5])
+print("chiều dài chuỗi s2 =",chuoi_2[0:6])
+print("chiều dài chuỗi s3 =",chuoi_3[0:20])
+print("chuỗi s4 =",chuoi_1[2:5])
+print("chuỗi s2 lặp lại 2 lần =", chuoi_2*2)
