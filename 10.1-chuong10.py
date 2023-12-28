@@ -1,0 +1,5 @@
+dayGiaTri=input("nhập vào dãy số cách nhau bởi khoảng trắng: ")
+DaySo=dayGiaTri.split()
+Daysomoi=map(int,DaySo)
+print(max(Daysomoi))
+print(min(Daysomoi))
